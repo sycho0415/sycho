@@ -1,3 +1,3 @@
 # sycho
-# i hate baseball
-# AI융합학부
+-i hate baseball
+-AI융합학부
